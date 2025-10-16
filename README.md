@@ -18,4 +18,4 @@
 
 ## Console Output
 
-![Day 1: About Me Page Task 4:]()
+![Day 1: About Me Page Task 4:](https://github.com/user-attachments/assets/2403695a-7b25-4840-923b-6b361010001d)
