@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: white;
+  color: #0a3d0a;
+
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: 100vh;
+}
+
+header {
+  width: 90%;
+  max-width: 700px;
+  margin: 1.5rem auto;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px green;
+}
+
+.skills {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  background-color: #008751;
+  color: white;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 8px;
+}
+
+.location {
+  background-color: white;
+  border: 2px solid #008751;
+  text-align: center;
+}
+
+.location p {
+  margin-top: 12px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.foot-main {
+  width: 80%;
+  margin: auto;
+  background: white;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.foot-p {
+  font-size: 18px;
+  color: red;
+  margin-top: 15px;
+}
+
+.foot-a {
+  color: blue;
+  margin: 0 10px;
+}
